@@ -1,0 +1,21 @@
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\obj\Debug\net6.0-windows\WpfApp1 yes.vbproj.AssemblyReference.cache
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\obj\Debug\net6.0-windows\WpfApp1 yes_MarkupCompile.cache
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\obj\Debug\net6.0-windows\WpfApp1 yes_MarkupCompile.lref
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\bin\Debug\net6.0-windows\WpfApp1 yes.exe
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\bin\Debug\net6.0-windows\WpfApp1 yes.deps.json
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\bin\Debug\net6.0-windows\WpfApp1 yes.runtimeconfig.json
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\bin\Debug\net6.0-windows\WpfApp1 yes.dll
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\bin\Debug\net6.0-windows\WpfApp1 yes.pdb
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\obj\Debug\net6.0-windows\WpfApp1 yes.g.resources
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\obj\Debug\net6.0-windows\WpfApp1 yes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\obj\Debug\net6.0-windows\WpfApp1 yes.AssemblyInfoInputs.cache
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\obj\Debug\net6.0-windows\WpfApp1 yes.AssemblyInfo.vb
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\obj\Debug\net6.0-windows\WpfApp1 yes.vbproj.CoreCompileInputs.cache
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\obj\Debug\net6.0-windows\WpfApp1 yes.dll
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\obj\Debug\net6.0-windows\refint\WpfApp1 yes.dll
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\obj\Debug\net6.0-windows\WpfApp1 yes.pdb
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\obj\Debug\net6.0-windows\WpfApp1 yes.genruntimeconfig.cache
+C:\Users\rastp497\Desktop\SY22-23\VB\WpfApp1 yes\WpfApp1 yes\obj\Debug\net6.0-windows\ref\WpfApp1 yes.dll
